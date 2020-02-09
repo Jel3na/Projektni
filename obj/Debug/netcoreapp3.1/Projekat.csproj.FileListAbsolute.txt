@@ -1,0 +1,16 @@
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat.deps.json
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat.runtimeconfig.json
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat.runtimeconfig.dev.json
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat.dll
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Projekat.pdb
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.csprojAssemblyReference.cache
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.AssemblyInfoInputs.cache
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.AssemblyInfo.cs
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.csproj.CopyComplete
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.dll
+/Users/jelenabozovic/Projects/Projekat/Projekat/obj/Debug/netcoreapp3.1/Projekat.pdb
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/IronXL.dll
+/Users/jelenabozovic/Projects/Projekat/Projekat/bin/Debug/netcoreapp3.1/nunit.framework.dll
